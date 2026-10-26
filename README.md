@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm computer science undergraduate with interest in coding.<br>I am web development enthusiast
+👋 Full-Stack Developer passionate about building scalable web applications and AI-powered products. Currently exploring Next.js, TypeScript, and backend development while solving DSA problems and constantly learning new technologies.
 
 
 ## 🌐 Socials:
